@@ -2,14 +2,7 @@ package refactored;
 
 import java.io.Serializable;
 
-/**
- * Title:
- * Description:
- * Copyright:    Copyright (c) 2001
- * Company:
- * @author
- * @version 1.0
- */
+
 
 //HARI PATEL && ALEX PRICE
 
