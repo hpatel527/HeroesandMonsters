@@ -29,10 +29,7 @@ import java.io.Serializable;
 	  public void attack(DungeonCharacter opponent) -- this method will be
 	    overridden
  *
- * Copyright:    Copyright (c) 2001
- * Company:
- * @author
- * @version 1.0
+
  */
 
 //HARI PATEL && ALEX PRICE
