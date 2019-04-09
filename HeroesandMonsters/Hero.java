@@ -24,10 +24,6 @@ import java.util.Scanner;
 	  public void subtractHitPoints(int hitPoints)
 	  public void battleChoices(DungeonCharacter opponent)
 
- * Copyright:    Copyright (c) 2001
- * Company:
- * @author
- * @version 1.0
  */
 
 //HARI PATEL && ALEX PRICE
